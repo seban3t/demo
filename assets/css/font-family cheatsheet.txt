@@ -1,0 +1,8 @@
+font-family: 'Muli', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Anton', sans-serif;
+font-family: 'Chelsea Market', cursive;
+font-family: 'Indie Flower', cursive; //cocok untuk logo
+font-family: 'Permanent Marker', cursive; //cocok juga untuk logo
+font-family: 'Asap Condensed', sans-serif;
